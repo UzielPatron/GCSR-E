@@ -15,6 +15,7 @@ const account = {
   account: "account",
   changeName: "changeName",
   changeUsername: "changeUsername",
+  changePassword: "changePassword",
 };
 
 export const screenNames = {

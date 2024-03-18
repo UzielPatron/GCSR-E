@@ -1,4 +1,4 @@
-import { AuthScreen } from "../screens/Auth";
+import { AuthScreen } from "../screens/auth";
 import { AppNavigation } from "./AppNavigation";
 
 const RootNavigation = () => {

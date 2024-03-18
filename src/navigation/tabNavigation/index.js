@@ -1,2 +1,2 @@
 export * from "./TabNavigation";
-export * from "./TabNavigation.styles";
+export * from "./TabNavigation.styles.js";
